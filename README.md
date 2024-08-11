@@ -1,41 +1,95 @@
-<<<<<<< HEAD
-# sawyer-culberson-project
-Sawyer Culberson Project of Save the Kids
-=======
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Sawyer Culberson Project Website
+
+Welcome to the Sawyer Culberson Project website repository! This project is dedicated to empowering and protecting vulnerable youth and families in Washington State through education, advocacy, and support services.
+
+## About the Project
+
+The Sawyer Culberson Project, part of Save the Kids, is a grassroots nonprofit organization focusing on marginalized BIYOC (Black, Indigenous, and Youth of Color), including BIYOC asylum seekers. Our mission is to prevent fentanyl overdose, reduce violence, end trafficking, and promote mental health and housing stability.
+
+This website serves as a platform to:
+- Raise awareness about our cause
+- Provide information about our programs and services
+- Facilitate community engagement and support
+
+## Tech Stack
+
+- [Next.js](https://nextjs.org/) - React framework for server-side rendering and static site generation
+- [React](https://reactjs.org/) - JavaScript library for building user interfaces
+- [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
+- [Vercel](https://vercel.com/) - Deployment and hosting platform
 
 ## Getting Started
 
-First, run the development server:
+To get a local copy up and running, follow these steps:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+1. Clone the repository
+   ```
+   git clone https://github.com/your-username/sawyer-culberson-project.git
+   ```
+
+2. Install dependencies
+   ```
+   cd sawyer-culberson-project
+   npm install
+   ```
+
+3. Run the development server
+   ```
+   npm run dev
+   ```
+
+4. Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
+
+## Contributing
+
+We welcome contributions from the community! Here are ways you can help:
+
+1. **Report Bugs**: Open an issue if you find a bug or have a suggestion for improvement.
+
+2. **Submit Pull Requests**: Feel free to submit pull requests for bug fixes or new features.
+
+3. **Improve Documentation**: Help us improve our documentation to make the project more accessible.
+
+4. **Spread the Word**: Share our project with others who might be interested in contributing or supporting our cause.
+
+Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
+
+## Project Structure
+
+```
+sawyer-culberson-project/
+├── components/       # React components
+├── pages/            # Next.js pages
+├── public/           # Static files
+├── styles/           # CSS files
+├── lib/              # Utility functions
+├── context/          # React context files
+└── ...
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Available Scripts
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- `npm run dev`: Runs the app in development mode
+- `npm run build`: Builds the app for production
+- `npm start`: Runs the built app in production mode
+- `npm run lint`: Runs the linter to check for code style issues
 
 ## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+To learn more about the technologies used in this project, check out the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Next.js Documentation](https://nextjs.org/docs)
+- [React Documentation](https://reactjs.org/docs/getting-started.html)
+- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Contact
 
-## Deploy on Vercel
+For any questions or concerns, please contact us at info@sawyerculbersonproject.org.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## License
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
->>>>>>> 12f405b (Initial commit from Create Next App)
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+---
+
+Thank you for your interest in contributing to the Sawyer Culberson Project. Together, we can make a positive impact on the lives of vulnerable youth and families in Washington State!
