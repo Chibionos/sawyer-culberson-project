@@ -33,7 +33,7 @@ const Founder: React.FC = () => {
             />
             <FounderHighlight
               title="A Journey of Healing and Advocacy"
-              description="After overcoming personal trauma and losing her son Sawyer to fentanyl, Leila became a tireless advocate for raising awareness about drug dangers and creating safe spaces for marginalized youth and families."
+              description="After overcoming personal trauma and losing her daughter Sawyer to fentanyl, Leila became a tireless advocate for raising awareness about drug dangers and creating safe spaces for marginalized youth and families."
             />
             <FounderHighlight
               title="Empowering Lives"
