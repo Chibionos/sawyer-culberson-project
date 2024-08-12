@@ -25,7 +25,7 @@ const Founder: React.FC = () => {
           <div>
             <h3 className="text-2xl font-bold mb-4 text-primary-700">President Leila Culberson</h3>
             <p className="text-gray-600 mb-6">
-              Leila Culberson's life has been a testament to strength, compassion, and unwavering determination. As a survivor of multiple forms of childhood trauma, she faced adversity head-on, emerging from the darkness with a fierce resolve to make a difference.
+              Leila Culberson&apos;s life has been a testament to strength, compassion, and unwavering determination. As a survivor of multiple forms of childhood trauma, she faced adversity head-on, emerging from the darkness with a fierce resolve to make a difference.
             </p>
             <FounderHighlight
               title="A Warrior for Change"
@@ -37,7 +37,7 @@ const Founder: React.FC = () => {
             />
             <FounderHighlight
               title="Empowering Lives"
-              description="Leila's grassroots organization has helped over 40 women and children find refuge from the streets. Despite lack of government funding, she remains committed to being a beacon of hope and a force for change."
+              description="Leila&apos;s grassroots organization has helped over 40 women and children find refuge from the streets. Despite lack of government funding, she remains committed to being a beacon of hope and a force for change."
             />
           </div>
         </div>

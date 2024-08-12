@@ -47,7 +47,7 @@ const ContactForm = () => {
             Contact Us
           </h2>
           <p className="mt-4 text-xl text-gray-500">
-            We're here to help. Send us a message and our volunteers will reach out to you.
+            We&apos;re here to help. Send us a message and our volunteers will reach out to you.
           </p>
         </div>
         <div className="mt-12 max-w-lg mx-auto">

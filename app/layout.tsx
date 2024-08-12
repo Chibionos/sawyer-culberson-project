@@ -23,7 +23,6 @@ export default function RootLayout({
     <html lang="en">
       <body className={`${openSans.className} font-sans`}>
         <main className={`${montserrat.className} font-heading`}>
-          <Nav />
           {children}
           <Footer />
         </main>
